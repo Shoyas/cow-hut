@@ -1,8 +1,8 @@
 {
-    "cSpell.words": "virtuals",
-    
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
-        "source.organizeImports": true, 
-    }
+  "cSpell.words": "virtuals",
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  }
 }
