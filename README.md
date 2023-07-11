@@ -8,7 +8,7 @@ __________________________________
 __Application Routes:__
 
 __User__
-* api/v1/users/signup (POST)
+* api/v1/auth/signup (POST)
 * api/v1/users (GET)
 * api/v1/users/:id (GET)
 * api/v1/users/:id (PATCH)
